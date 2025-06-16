@@ -8,7 +8,7 @@
 ## Installation
 First clone the repo and cd into the directory:
 ```shell
-git clone https://github.com/fukexue/FAST
+git clone -b master https://github.com/fukexue/FAST
 cd FAST
 ```
 Then create a conda env and install the dependencies:
