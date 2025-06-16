@@ -21,8 +21,6 @@ pip install -r requirements.txt
 
 ## Dataset
 We have processed the WSI data at a 5x magnification level and extracted features. The processed dataset can be downloaded from the link below.
-
-We are uploading the data.
 [CAMELYON16_CLIP](https://drive.google.com/drive/folders/190Kphlb9n2kGmsqeFVeOaNS_KOhTdRXo?usp=sharing)
 | [CAMELYON16_CONCH](https://drive.google.com/drive/folders/1jOyTBrxxhNnLf6ssU3K1d0Rr_zznarHP?usp=sharing)
 | [CAMELYON16_PLIP](https://drive.google.com/drive/folders/1fuLusiCYRrbFrIOB8h3FXjyFSYl8Y-4_?usp=sharing)
