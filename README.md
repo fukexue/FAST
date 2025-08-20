@@ -27,6 +27,7 @@ We have processed the WSI data at a 5x magnification level and extracted feature
 | [TCGA_RENAL_CLIP](https://drive.google.com/drive/folders/1Db2OAjWvXaD3F6yI_WrHLG_CS2C_MHIK?usp=sharing)
 | [TCGA_RENAL_CONCH](https://drive.google.com/drive/folders/1izGdrBzDTFabrjUCpXLhj9DYvRT1a8Ex?usp=sharing)
 | [TCGA_RENAL_PLIP](https://drive.google.com/drive/folders/1wK9Zz8L_kO298UCPpb9mbuCjx_VsvUXe?usp=sharing)
+| The TCGA-based feature dataset was previously distributed via email (fukexuefdu@163.com) and is no longer available online. If you have obtained this data, please do not disseminate or publish it online.
 
 
 ## Pretrain Weights
