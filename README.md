@@ -22,11 +22,11 @@ pip install -r requirements.txt
 ## Dataset
 We have processed the WSI data at a 5x magnification level and extracted features. The processed dataset can be downloaded from the link below.
 [CAMELYON16_CLIP](https://drive.google.com/drive/folders/190Kphlb9n2kGmsqeFVeOaNS_KOhTdRXo?usp=sharing)
-| [CAMELYON16_CONCH](https://drive.google.com/drive/folders/1jOyTBrxxhNnLf6ssU3K1d0Rr_zznarHP?usp=sharing)
-| [CAMELYON16_PLIP](https://drive.google.com/drive/folders/1fuLusiCYRrbFrIOB8h3FXjyFSYl8Y-4_?usp=sharing)
-| [TCGA_RENAL_CLIP](https://drive.google.com/drive/folders/1Db2OAjWvXaD3F6yI_WrHLG_CS2C_MHIK?usp=sharing)
-| [TCGA_RENAL_CONCH](https://drive.google.com/drive/folders/1izGdrBzDTFabrjUCpXLhj9DYvRT1a8Ex?usp=sharing)
-| [TCGA_RENAL_PLIP](https://drive.google.com/drive/folders/1wK9Zz8L_kO298UCPpb9mbuCjx_VsvUXe?usp=sharing)
+| [CAMELYON16_CONCH](https://drive.google.com/drive/folders/1q7a11C2DiKiy_RUv-fQzjsgAqWiGxOkq?usp=sharing)
+| [CAMELYON16_PLIP](https://drive.google.com/drive/folders/1TdQwngtK_UtEEc1EEopvNhug4YI6wxyK?usp=sharing)
+| [TCGA_RENAL_CLIP]
+| [TCGA_RENAL_CONCH]
+| [TCGA_RENAL_PLIP]
 | The TCGA-based feature dataset was previously distributed via email (fukexuefdu@163.com) and is no longer available online. If you have obtained this data, please do not disseminate or publish it online.
 
 
